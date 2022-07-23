@@ -1,6 +1,13 @@
 # Rainbow DQN
 This is a concise Pytorch implementation of Rainbow DQN, including Double Q-learning, Dueling network, Noisy network, PER and n-steps Q-learning.<br />
 
+# Dependencies
+python==3.7.9<br />
+numpy==1.19.4<br />
+pytorch==1.5.0<br />
+tensorboard==0.6.0<br />
+gym==0.21.0<br />
+
 ## How to use my code?
 You can dircetly run Rainbow_DQN_main.py in your own IDE.<br />
 
