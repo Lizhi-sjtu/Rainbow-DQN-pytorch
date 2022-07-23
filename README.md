@@ -14,7 +14,7 @@ You can use the tensorboard to visualize the training curves, which are saved in
 The rewards data are saved as numpy in the file 'data_train'.<br />
 The training curves are shown below.<br />
 The right picture is smoothed by averaging over a window of 10 steps. The solid line and the shadow respectively represent the average and standard deviation over three different random seeds. (seed=0, 10, 100)<br />
-![image](https://github.com/Lizhi-sjtu/DRL-code-pytorch/blob/main/3.Rainbow_DQN/rainbow_dqn_result.png)
+![image](https://github.com/Lizhi-sjtu/Rainbow-DQN-pytorch/blob/main/rainbow_dqn_result.png)
 
 ## Reference
 [1] Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. nature, 2015, 518(7540): 529-533.<br />
